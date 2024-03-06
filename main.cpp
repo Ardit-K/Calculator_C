@@ -15,7 +15,7 @@ int main(){
     string input;
     cin >> input;
     while(input != "end"){
-
+        
     }
     return 0;
 }
