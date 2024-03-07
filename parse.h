@@ -1,5 +1,6 @@
 #include <vector>
 #include <iostream>
+#include <string.h>
 using namespace std;
 
-vector<string> parse(string input);
+vector<char *> parse_string(string input);
