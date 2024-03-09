@@ -18,6 +18,6 @@ double multiply(double n1, double n2){
     return static_cast<double>(n1 * n2);
 }
 
-double divied(double n1, double n2){
+double divide(double n1, double n2){
     return static_cast<double>(n1 / n2);
 }

@@ -4,4 +4,4 @@ double subtract(double n1, double n2);
 
 double multiply(double n1, double n2);
 
-double divied(double n1, double n2);
+double divide(double n1, double n2);
